@@ -15,4 +15,9 @@ class Cat implements Animal
 
     }
 
+    public void showName()
+    {
+        System.out.println("Kittu");
+    }
+
 }
